@@ -26,7 +26,7 @@ target="_blank"><br><img width="100" src="https://emojipedia-us.s3.dualstack.us-
 3. Open Mailspring
 4. Click on the  ```Mailspring``` tab on the menu of Mailspring
 5. Click on ```Install Theme...``` in the ```Mailspring``` menu
-6. Find the  ```mailspring-homesick-master```  folder and click on it
+6. Find the  ```Homesick-master```  folder and click on it
 7. Press  the blue ```choose```  button and the theme will load
 8. Mess around with the new theme and see if you like it
 9. You're done 🎉
