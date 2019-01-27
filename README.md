@@ -17,6 +17,8 @@ target="_blank"><br><img width="100" src="https://emojipedia-us.s3.dualstack.us-
 - 🎉 Open source
 - 🔥 If you like the Homesick theme please consider <a href="https://www.patreon.com/3raxton" target="_blank"> supporting me on Patreon</a>
 
+![Homesick](https://github.com/3raxton/Homesick/blob/master/screenshot/Homesick%20Theme.png?raw=true)
+
 ## How to make Homesick your Mailspring theme
 
 1. [Download the zip file by clicking here](https://github.com/3raxton/ForeignIpsum/blob/master/github.com/3raxton/Homesick/archive/master.zip) or clicking on the green `Clone or download` button at the <b>top right</b> of the repo.
@@ -38,6 +40,6 @@ Want to add something that's missing to the theme or have an idea? <a href="http
 Support [me on Patreon](https://patreon.com/3raxton) **to help the development of the Homesick theme stay strong **. I create &amp; work on open source projects such as the Homesick theme for free. If you or your company depend on this project, it makes sense to donate in order to help ensure that the project is maintained.
 
 ## License
-Licensed under the [MIT License](https://3raxton.github.io/license/) by [Braxton Huff](https://www.braxtonhuff.com/) 
+Licensed under the [MIT License](https://github.com/Foundry376/Mailspring-Theme-Starter/blob/master/LICENSE.md) by [Foundry 376, LLC](https://github.com/Foundry376) 
 
 Hopefully the Homesick theme helps improve your use of Mailspring and treats you well! Cheers!
